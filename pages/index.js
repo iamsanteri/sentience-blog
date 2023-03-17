@@ -7,7 +7,11 @@ export default function Home() {
   return (
     <>
       <Head>
+        <title>Sentience Platform</title>
       </Head>
+      <div>
+        <h1>Hello Sentience platform!</h1>
+      </div>
     </>
   )
 }
