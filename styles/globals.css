@@ -1,3 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
 .author {
   display: flex;
   flex-direction: column;
@@ -1115,3 +1120,4 @@ symbol {
       padding: 3rem 0;
   }
 }
+*/
