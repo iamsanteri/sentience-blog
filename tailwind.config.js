@@ -11,6 +11,11 @@ module.exports = {
   theme: {
     fontFamily: {
       'sourceserifpro': ['"Source Serif Pro"', 'sans-serif']
+    },
+    extend: {
+      colors: {
+        sentient: '#282c35',
+      }
     }
   },
   plugins: [],
