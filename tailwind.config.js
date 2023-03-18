@@ -9,7 +9,9 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    fontFamily: {
+      'sourceserifpro': ['"Source Serif Pro"', 'sans-serif']
+    }
   },
   plugins: [],
 }
