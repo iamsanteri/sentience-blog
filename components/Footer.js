@@ -3,7 +3,7 @@ import styles from '../styles/Footer.module.css';
 
 const Footer = () => {
   return (
-    <div className={styles}>
+    <div className="mt-auto">
       <div className="lg:pl-60 pl-5 lg:pr-60 pr-8 flex text-lg flex-col text-gray-500 items-center justify-between py-16 lg:flex-row dark:bg-sentient dark:text-zinc-400">
         <p className="inline-block align-center max-lg:py-8">Sentience © { new Date().getFullYear() }</p>
         <div className="justify-center lg:flex">

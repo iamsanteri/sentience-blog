@@ -32,9 +32,11 @@ export default function Layout({ children }) {
             <title>Sentience Platform</title>
             <link rel="shortcut icon" href={favicon} />
         </Head>
-        <Header />
-        <main>{children}</main>
-        <Footer />
+        <div className="flex flex-col h-screen">
+            <Header />
+            <main>{children}</main>
+            <Footer />
+        </div>
       </>
     )
   }
