@@ -4,8 +4,12 @@
 
 .font-SourceSerifPro {
   font-family: "Source Serif Pro", serif;
-  font-weight: 300 400 500 600 700 900;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
+
+
 
 /*
 .author {
