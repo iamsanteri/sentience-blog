@@ -3,20 +3,22 @@ import styles from '../styles/Footer.module.css';
 
 const Footer = () => {
   return (
-    <div className="lg:pl-60 pl-5 lg:pr-60 pr-8 flex text-lg text-gray-500 items-center justify-between py-16 flex-row dark:bg-sentient dark:text-gray-400">
-      <p className="inline-block align-center">Sentience © { new Date().getFullYear() }</p>
-      <div className="justify-center hidden lg:flex">
-        <span className="flex-center">
-          <span className="whitespace-nowrap p-3 hover:text-black dark:hover:text-white">
-            <a href="#">Stories</a>
+    <div className={styles}>
+      <div className="lg:pl-60 pl-5 lg:pr-60 pr-8 flex text-lg flex-col text-gray-500 items-center justify-between py-16 lg:flex-row dark:bg-sentient dark:text-zinc-400">
+        <p className="inline-block align-center max-lg:py-8">Sentience © { new Date().getFullYear() }</p>
+        <div className="justify-center lg:flex">
+          <span className="flex-center max-lg:flex max-lg:flex-col">
+            <span className="whitespace-nowrap max-lg:py-0.5 p-3 hover:text-black dark:hover:text-white">
+              <a href="#">Stories</a>
+            </span>
+            <span className="text-xs max-lg:hidden">•</span>
+            <span className="whitespace-nowrap max-lg:py-0.5 p-3 hover:text-black dark:hover:text-white">
+              <a href="#">Essays</a>
+            </span>
           </span>
-          <span className="text-xs">•</span>
-          <span className="whitespace-nowrap p-3 hover:text-black dark:hover:text-white">
-            <a href="#">Essays</a>
-          </span>
-        </span>
+        </div>
+        <p className="inline-block align-center max-lg:py-8">Made for writing.</p>
       </div>
-      <p className="inline-block align-center">Made for writing.</p>
     </div>
   );
 };
