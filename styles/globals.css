@@ -8,3 +8,7 @@
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
 }
+
+.feed-group > div:last-child .hide-h-line-if-last {
+  @apply hidden;
+}
