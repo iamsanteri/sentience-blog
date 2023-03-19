@@ -9,13 +9,13 @@ const Header = () => {
         setIsOpen(!isOpen);
       };
 
-    const genericHamburgerLine = `h-0.5 w-8 my-1 rounded-full bg-black dark:bg-white z-20 transition ease-in transform duration-50`;
+    const genericHamburgerLine = `h-px w-6 my-1 rounded-full bg-black dark:bg-white z-20 transition ease-in transform duration-50`;
 
   return (
     <nav className="lg:pl-60 pl-10 lg:pr-60 pr-10 pt-7 flex items-center flex-row dark:bg-sentient">
         <div className="container justify-start flex z-20">
             <a href="https://sentience.lostbookofsales.com" className="">
-                <span className="text-2xl font-bold dark:text-white">Sentience</span>
+                <span className="text-xl lg:text-2xl font-bold dark:text-white">Sentience</span>
             </a>
         </div>
         <div className="container justify-center hidden lg:flex">
@@ -37,7 +37,7 @@ const Header = () => {
                 </button>
                 {isOpen && (
                     <div className="fixed inset-0 bg-white dark:bg-sentient flex items-center justify-center z-10">
-                        <nav className="dark:text-white text-3xl space-y-7 flex flex-col">
+                        <nav className="dark:text-white text-center text-2xl space-y-7 flex flex-col">
                             <a href="#" className="font-extrabold" onClick={toggleMenu}>Stories</a>
                             <a href="#" className="font-extrabold" onClick={toggleMenu}>Essays</a>
                             <a href="#" className="font-extrabold" onClick={toggleMenu}>About</a>
