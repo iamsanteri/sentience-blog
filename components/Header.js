@@ -12,7 +12,7 @@ const Header = () => {
     const genericHamburgerLine = `h-px w-6 my-1 rounded-full bg-black dark:bg-white z-20 transition ease-in transform duration-50`;
 
   return (
-    <nav className="lg:pl-60 pl-10 lg:pr-60 pr-10 pt-7 flex items-center flex-row dark:bg-sentient">
+    <nav className="lg:pl-60 pl-5 lg:pr-60 pr-8 pt-4 lg:pt-7 flex items-center flex-row dark:bg-sentient">
         <div className="container justify-start flex z-20">
             <a href="https://sentience.lostbookofsales.com" className="">
                 <span className="text-xl lg:text-2xl font-bold dark:text-white">Sentience</span>
