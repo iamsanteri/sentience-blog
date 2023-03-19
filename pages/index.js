@@ -5,10 +5,13 @@ import styles from '@/styles/Home.module.css'
 import Head from 'next/head'
 import Image from 'next/image'
 
+import PostList from '../components/PostList';
+
 export default function Index() {
 
   // Logic for adjusting cover image based on system mode
   const [coverImg, setCoverImg] = useState("abstract-christmas-tree-cover.png")
+  const [pageIdentifier, setPageIdentifier] = useState("index")
 
   useEffect(() => {
       if (typeof window !== "undefined") {
@@ -31,7 +34,7 @@ export default function Index() {
       <Head>
         <title>Sentience Platform</title>
       </Head>
-      <section className="bg-white dark:bg-sentient pt-24">
+      <section className="bg-white dark:bg-sentient pt-20 lg:pt-24">
         <div className="flex justify-center">
           <Image src={coverImg} priority alt="Sentience cover image" width={120} height={120} className="object-contain" />
         </div>
@@ -40,6 +43,7 @@ export default function Index() {
           <p className="mb-6 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">We'll keep building it here.</p>
         </div>
       </section>
+      <PostList pageIdentifier={pageIdentifier} />
     </>
   )
 }
