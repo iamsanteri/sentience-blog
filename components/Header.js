@@ -37,7 +37,7 @@ const Header = () => {
                 </button>
                 {isOpen && (
                     <div className="fixed inset-0 bg-white dark:bg-sentient flex items-center justify-center z-10">
-                        <nav className="dark:text-white text-center text-2xl space-y-7 flex flex-col">
+                        <nav className="dark:text-white text-center text-3xl space-y-7 flex flex-col">
                             <a href="#" className="font-extrabold" onClick={toggleMenu}>Stories</a>
                             <a href="#" className="font-extrabold" onClick={toggleMenu}>Essays</a>
                             <a href="#" className="font-extrabold" onClick={toggleMenu}>About</a>
