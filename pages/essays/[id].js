@@ -36,7 +36,7 @@ export default function SinglePost({ postData, allPostsData }) {
         <Head>
             <title>{ postData.title }</title>
         </Head>
-        <section className="bg-white dark:bg-sentient pt-14 mb-4 lg:mb-10 lg:pt-32">
+        <section className="bg-white dark:bg-sentient pt-14 mb-4 pb-7 lg:mb-10 lg:pt-32">
             <div className="w-full flex justify-center">
                 <div className="p-5 md:w-3/4 lg:w-3/5 xl:w-2/4 2xl:w-2/5">
                     <h1 style={{ lineHeight: 2.5 + "rem"}} className="mb-9 text-3xl md:text-4xl font-semibold leading-none tracking-tight text-gray-900 dark:text-white">{ postData.title }</h1>

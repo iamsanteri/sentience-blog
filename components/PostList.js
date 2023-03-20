@@ -41,7 +41,7 @@ const PostList = ({pageIdentifier, allPostsData}) => {
                     ))}
                 </div>
                 <div className="grid place-content-center">
-                    <div className="px-3 py-2 text-xs border border-gray-200 rounded hover:border-gray-400 hover:cursor-pointer" onClick={ loadMore } style={{ display: showAmount > filteredList.length ? "none" : "block"}}>LOAD MORE</div>
+                    <div className="px-3 py-2 text-xs border rounded border-gray-200 dark:border-gray-600 hover:border-gray-400 dark:hover:border-gray-500 hover:cursor-pointer dark:text-white" onClick={ loadMore } style={{ display: showAmount > filteredList.length ? "none" : "block"}}>LOAD MORE</div>
                 </div>
             </section>
         </>
