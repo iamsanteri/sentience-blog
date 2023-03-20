@@ -1,8 +1,11 @@
+import React, { useState } from 'react';
+
 import '../styles/PostList.module.css';
 
 import Link from "next/link";
 
 const PostList = ({pageIdentifier, allPostsData}) => {
+    const [showAmount, setShowAmount] = useState(5);
     
     let filteredList = allPostsData;
 
@@ -11,11 +14,20 @@ const PostList = ({pageIdentifier, allPostsData}) => {
         filteredList = allPostsData.filter(post => post.type == pageIdentifier)
     }
 
+    // Paginate list to five items at a time, starting with five initially
+    let paginatedList = filteredList.slice(0, showAmount)
+
+    function loadMore() {
+        setShowAmount(showAmount => showAmount + 5);
+        paginatedList = filteredList.slice(0, showAmount)
+    }
+
+
     return (
         <>
-            <section className="lg:pt-4 pb-12 feed-group">
-                <div className="mx-7 lg:mx-32 lg:px-32 xl:mx-64 xl:px-42 2xl:mx-72 2xl:px-48">
-                    {filteredList.map(({ id, type, title, minutesReadTime }) => (
+            <section className="lg:pt-4 pb-6 feed-group">
+                <div className="mb-5 mx-7 lg:mx-32 lg:px-32 xl:mx-64 xl:px-42 2xl:mx-72 2xl:px-48">
+                    {paginatedList.map(({ id, type, title, minutesReadTime }) => (
                         <div key={id} className="group">
                             <Link className="flex justify-between items-center" href={`/${type}/${id}`}>
                                 <span className="text-lg py-3 dark:text-white group-hover:opacity-75 truncate w-9/12">{ title }</span>
@@ -27,6 +39,9 @@ const PostList = ({pageIdentifier, allPostsData}) => {
                             <hr className='hide-h-line-if-last dark:opacity-10 h-0.5' />
                         </div>
                     ))}
+                </div>
+                <div className="grid place-content-center">
+                    <div className="px-3 py-2 text-xs border border-gray-200 rounded hover:border-gray-400 hover:cursor-pointer" onClick={ loadMore } style={{ display: showAmount > filteredList.length ? "none" : "block"}}>LOAD MORE</div>
                 </div>
             </section>
         </>
