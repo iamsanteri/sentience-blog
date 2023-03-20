@@ -1,6 +1,7 @@
 import '../styles/PostList.module.css';
 
 const PostList = (pageIdentifier) => {
+    // PageIdentifier will be used to loop through appropriate posts for a given tag
     return (
         <>
             <section className="lg:pt-4 pb-12 feed-group">

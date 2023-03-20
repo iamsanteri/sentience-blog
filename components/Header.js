@@ -14,20 +14,24 @@ const Header = () => {
   return (
     <nav className="lg:pl-60 pl-5 lg:pr-60 pr-8 pt-4 lg:pt-7 flex items-center flex-row dark:bg-sentient">
         <div className="container justify-start flex z-20">
-            <a href="https://sentience.lostbookofsales.com" className="">
-                <span className="text-xl lg:text-2xl font-bold dark:text-white hover:opacity-75">Sentience</span>
-            </a>
+            <span className="text-xl lg:text-2xl font-bold dark:text-white hover:opacity-75">
+                <Link href="/">Sentience</Link>
+            </span>
         </div>
         <div className="container justify-center hidden lg:flex">
-            <a href="https://sentience.lostbookofsales.com" className="flex-center">
-                <span className="text-xl p-5 font-semibold whitespace-nowrap dark:text-white hover:opacity-75">Stories</span>
-                <span className="text-xl p-5 font-semibold whitespace-nowrap dark:text-white hover:opacity-75">Essays</span>
-            </a>
+            <span className="flex-center">
+                <span className="text-xl p-5 font-semibold whitespace-nowrap dark:text-white hover:opacity-75">
+                    <Link href="/stories">Stories</Link>
+                </span>
+                <span className="text-xl p-5 font-semibold whitespace-nowrap dark:text-white hover:opacity-75">
+                    <Link href="/essays">Essays</Link>
+                </span>
+            </span>
         </div>
         <div className="container hidden lg:flex justify-end">
-            <a href="https://sentience.lostbookofsales.com" className="">
-                <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white hover:opacity-75">About</span>
-            </a>
+            <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white hover:opacity-75">
+                <Link href="/about">About</Link>
+            </span>
         </div>
         <div className="container flex lg:hidden justify-end">
             <div className="flex flex-col justify-around w-6 h-4 cursor-pointer z-30" onClick={toggleMenu}>
@@ -39,9 +43,15 @@ const Header = () => {
             {isOpen && (
                 <div className="fixed inset-0 bg-white dark:bg-sentient flex items-center justify-center z-10">
                     <nav className="dark:text-white text-center text-3xl space-y-7 flex flex-col">
-                        <a href="#" className="font-extrabold" onClick={toggleMenu}>Stories</a>
-                        <a href="#" className="font-extrabold" onClick={toggleMenu}>Essays</a>
-                        <a href="#" className="font-extrabold" onClick={toggleMenu}>About</a>
+                        <span className="font-extrabold" onClick={toggleMenu}>
+                            <Link href="/stories">Stories</Link>
+                        </span>
+                        <span className="font-extrabold" onClick={toggleMenu}>
+                            <Link href="/essays">Essays</Link>
+                        </span>
+                        <span className="font-extrabold" onClick={toggleMenu}>
+                            <Link href="/about">About</Link>
+                        </span>
                     </nav>
                 </div>
             )}
