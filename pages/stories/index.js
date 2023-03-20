@@ -24,6 +24,10 @@ export default function Stories({ allPostsData }) {
     <>
       <Head>
         <title>Stories - Sentience</title>
+        <meta
+                name="description"
+                content=""
+        />
       </Head>
       <section className="bg-white dark:bg-sentient pb-8 pt-20 lg:pt-24">
         <div className="py-8 lg:py-14 px-4 mx-auto max-w-screen-xl text-center lg:px-12">

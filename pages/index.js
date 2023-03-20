@@ -43,6 +43,10 @@ export default function Home({ allPostsData }) {
     <>
       <Head>
         <title>Sentience Platform</title>
+        <meta
+                name="description"
+                content=""
+        />
       </Head>
       <section className="bg-white dark:bg-sentient pt-20 mb-4 lg:pt-24">
         <div className="flex justify-center">

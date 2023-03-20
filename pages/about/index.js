@@ -8,6 +8,10 @@ export default function SinglePost({ postData }) {
     <>
         <Head>
             <title>About this site</title>
+            <meta
+                name="description"
+                content=""
+            />
         </Head>
         <section className="bg-white dark:bg-sentient pt-14 mb-4 lg:mb-10 lg:pt-24">
             <div className="w-full flex justify-center">

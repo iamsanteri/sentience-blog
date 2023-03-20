@@ -35,6 +35,10 @@ export default function SinglePost({ postData, allPostsData }) {
     <>
         <Head>
             <title>{ postData.title }</title>
+            <meta
+                name="description"
+                content=""
+            />
         </Head>
         <section className="bg-white dark:bg-sentient pt-14 mb-4 pb-7 lg:mb-10 lg:pt-32">
             <div className="w-full flex justify-center">
