@@ -9,11 +9,15 @@ const Footer = () => {
         <div className="justify-center lg:flex">
           <span className="flex-center max-lg:flex max-lg:flex-col">
             <span className="whitespace-nowrap max-lg:py-0.5 p-3 hover:text-black dark:hover:text-white">
-              <a href="#">Stories</a>
+              <Link href="/stories">Stories</Link>
             </span>
             <span className="text-xs max-lg:hidden">•</span>
             <span className="whitespace-nowrap max-lg:py-0.5 p-3 hover:text-black dark:hover:text-white">
-              <a href="#">Essays</a>
+              <Link href="/essays">Essays</Link>
+            </span>
+            <span className="text-xs max-lg:hidden">•</span>
+            <span className="whitespace-nowrap max-lg:py-0.5 p-3 hover:text-black dark:hover:text-white">
+              <Link href="/about">About</Link>
             </span>
           </span>
         </div>
