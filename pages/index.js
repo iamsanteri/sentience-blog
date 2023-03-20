@@ -42,10 +42,10 @@ export default function Home({ allPostsData }) {
   return (
     <>
       <Head>
-        <title>Sentience Platform</title>
+        <title>Sentience - Be Present</title>
         <meta
                 name="description"
-                content=""
+                content="Stories and essays as a creative outlet."
         />
       </Head>
       <section className="bg-white dark:bg-sentient pt-20 mb-4 lg:pt-24">
