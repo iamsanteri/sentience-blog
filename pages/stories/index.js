@@ -4,7 +4,18 @@ import Head from 'next/head'
 
 import PostList from '../../components/PostList';
 
-export default function Stories() {
+import { getSortedPostsData } from '../../lib/posts';
+
+export async function getStaticProps() {
+  const allPostsData = getSortedPostsData();
+  return {
+    props: {
+      allPostsData,
+    },
+  };
+}
+
+export default function Stories({ allPostsData }) {
 
   // State for passing identifier as a prop to PostList component
   const [pageIdentifier, setPageIdentifier] = useState("stories")
@@ -19,7 +30,7 @@ export default function Stories() {
           <h1 className="mb-1 text-2xl font-semibold leading-none tracking-tight text-gray-900 md:text-2xl lg:text-3xl dark:text-white">Stories</h1>
         </div>
       </section>
-      <PostList pageIdentifier={pageIdentifier} />
+      <PostList pageIdentifier={pageIdentifier} allPostsData={allPostsData} />
     </>
   )
 }

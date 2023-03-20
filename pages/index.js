@@ -7,8 +7,18 @@ import Image from 'next/image'
 
 import PostList from '../components/PostList';
 
-export default function Index() {
+import { getSortedPostsData } from '../lib/posts';
 
+export async function getStaticProps() {
+  const allPostsData = getSortedPostsData();
+  return {
+    props: {
+      allPostsData,
+    },
+  };
+}
+
+export default function Home({ allPostsData }) {
   // Logic for adjusting cover image based on system mode
   const [coverImg, setCoverImg] = useState("abstract-christmas-tree-cover.png")
   const [pageIdentifier, setPageIdentifier] = useState("index")
@@ -43,7 +53,7 @@ export default function Index() {
           <p className="mb-6 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">We'll keep building it here.</p>
         </div>
       </section>
-      <PostList pageIdentifier={pageIdentifier} />
+      <PostList pageIdentifier={pageIdentifier} allPostsData={allPostsData} />
     </>
   )
 }
