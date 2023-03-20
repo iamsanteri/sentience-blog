@@ -7,7 +7,7 @@ minutesReadTime: 2
 
 Suddenly, a man wakes up in cold sweat dreading for his life. Launching himself upright he can almost hear his heartbeat while tasting the dryness in his mouth. His brain feels like a squeezed fruit and his body is trembling.  
 
-Yet another nightmare?
+Yet anotherrrrr nightmare?
 
 It's pitch black in the darkness except for just two rays of light shooting towards the bedside from between the thick curtains. It must have been daylight for a while now as he hears the muted sound of children playing somewhere outside.
 
