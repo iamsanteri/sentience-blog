@@ -4,6 +4,8 @@ import styles from '../styles/Recommendations.module.css';
 const Recommendations = ({pageIdentifier, allPostsData, postData}) => {
     
     let filteredList = allPostsData;
+    let retrievedAmount = allPostsData.filter((item) => item.type == pageIdentifier).length
+    let hideIfNothingToDisplay = null;
 
     // PageIdentifier will be used to loop through appropriate posts for a given tag
     if (pageIdentifier !== "index") {
@@ -13,9 +15,15 @@ const Recommendations = ({pageIdentifier, allPostsData, postData}) => {
         filteredList.length = 5
     }
 
+    console.log(retrievedAmount)
+
+    if ( retrievedAmount <= 1 ) {
+        hideIfNothingToDisplay = {display: "none"}
+    }
+
     return (
         <>
-            <section className="mt-12 mb-2 lg:mb-20 lg:pt-4 pb-12 feed-group bg-gray-100 dark:bg-recommendations">
+            <section style={hideIfNothingToDisplay} className="mt-12 mb-2 lg:mb-20 lg:pt-4 pb-12 feed-group bg-gray-100 dark:bg-recommendations">
                 <div className="mx-7 lg:mx-32 lg:px-32 xl:mx-64 xl:px-42 2xl:mx-72 2xl:px-48">
                     <h1 className="mb-4 pb-3 pt-14 text-2xl md:text-3xl font-semibold leading-none tracking-tight text-gray-900 dark:text-white">You might also like...</h1>
                     {filteredList.map(({ id, type, title, minutesReadTime }) => (
