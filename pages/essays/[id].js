@@ -3,7 +3,10 @@ import Head from 'next/head'
 
 import styles from '@/styles/SinglePost.module.css'
 
+import Recommendations from '../../components/Recommendations';
+
 import { getAllPostIds, getPostData } from '../../lib/posts';
+import { getSortedPostsData } from '../../lib/posts';
 
 export async function getStaticPaths() {
     const paths = getAllPostIds();
@@ -14,17 +17,21 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
+    const allPostsData = getSortedPostsData();
     const postData = await getPostData(params.id);
+    
     return {
         props: {
             postData,
+            allPostsData
         },
     };
 }
 
-export default function SinglePost({ postData }) {
+export default function SinglePost({ postData, allPostsData }) {
+    const [pageIdentifier, setPageIdentifier] = useState("essays")
 
-  return (
+    return (
     <>
         <Head>
             <title>{ postData.title }</title>
@@ -37,6 +44,7 @@ export default function SinglePost({ postData }) {
                 </div>
             </div>
         </section>
+        <Recommendations pageIdentifier={pageIdentifier} allPostsData={allPostsData} postData={postData} />
     </>
   )
 }
