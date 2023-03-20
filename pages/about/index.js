@@ -17,7 +17,7 @@ export default function SinglePost({ postData }) {
             <div className="w-full flex justify-center">
                 <div className="p-5 md:w-3/4 lg:w-3/5 xl:w-2/4 2xl:w-2/5">
                     <h1 style={{ lineHeight: 2.5 + "rem"}} className="mb-9 text-3xl md:text-4xl font-semibold leading-none tracking-tight text-gray-900 dark:text-white">About this site</h1>
-                    <article style={{ lineHeight: 2 + "rem"}} className="prose-lg text-xl lg:prose-xl text-gray-700 dark:text-gray-300">
+                    <article style={{ lineHeight: 2 + "rem"}} className="prose-lg text-lg lg:prose-xl text-gray-700 dark:text-gray-300">
                         <p>I set up Sentience to experiment with different writing styles I'd probably never use elsewhere. Among others, here you'll find all sorts of fictional essays that are short and descriptive in nature.</p>
                         <p>Why?</p>
                         <p>Because writing as media, in addition to human labor and financial capital, are core forms of <a style={{textDecoration: "underline", textDecorationThickness: 1 + "px"}} href="https://www.lostbookofsales.com/notes/the-almanack-of-naval-ravikant-by-eric-jorgenson/?ref=sentience#leverage" className="dark:text-zinc-200 hover:opacity-75">modern leverage</a>.</p>

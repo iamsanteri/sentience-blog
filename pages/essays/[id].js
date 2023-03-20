@@ -44,7 +44,7 @@ export default function SinglePost({ postData, allPostsData }) {
             <div className="w-full flex justify-center">
                 <div className="p-5 md:w-3/4 lg:w-3/5 xl:w-2/4 2xl:w-2/5">
                     <h1 style={{ lineHeight: 2.2 + "rem"}} className="mb-9 text-3xl md:text-4xl font-semibold leading-none tracking-tight text-gray-900 dark:text-white">{ postData.title }</h1>
-                    <article className="prose text-xl lg:prose-xl prose-strong:dark:text-gray-300 prose-a:dark:text-zinc-200 text-gray-700 dark:text-gray-300 dark:prose-invert" dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+                    <article className="prose text-lg lg:prose-xl prose-strong:dark:text-gray-300 prose-a:dark:text-zinc-200 text-gray-700 dark:text-gray-300 dark:prose-invert" dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
                 </div>
             </div>
         </section>
