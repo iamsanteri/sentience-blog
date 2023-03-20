@@ -44,7 +44,7 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>Sentience Platform</title>
       </Head>
-      <section className="bg-white dark:bg-sentient pt-20 lg:pt-24">
+      <section className="bg-white dark:bg-sentient pt-20 mb-4 lg:pt-24">
         <div className="flex justify-center">
           <Image src={coverImg} priority alt="Sentience cover image" width={120} height={120} className="object-contain" />
         </div>
@@ -53,7 +53,9 @@ export default function Home({ allPostsData }) {
           <p className="mb-6 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">Capturing imagination.</p>
         </div>
       </section>
-      <PostList pageIdentifier={pageIdentifier} allPostsData={allPostsData} />
+      <div className="lg:mb-14">
+        <PostList pageIdentifier={pageIdentifier} allPostsData={allPostsData} />
+      </div>
     </>
   )
 }
