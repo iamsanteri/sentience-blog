@@ -15,6 +15,7 @@ module.exports = {
     extend: {
       colors: {
         sentient: '#282c35',
+        recommendations: '#2f333c',
       }
     }
   },

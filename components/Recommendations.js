@@ -10,13 +10,14 @@ const Recommendations = ({pageIdentifier, allPostsData, postData}) => {
         filteredList = allPostsData.filter(function (post) {
             return post.type == pageIdentifier && post.id != postData.id;
         });
+        filteredList.length = 5
     }
 
     return (
         <>
-            <section className="mt-12 mb-2 lg:mb-20 lg:pt-4 pb-12 feed-group bg-gray-100">
+            <section className="mt-12 mb-2 lg:mb-20 lg:pt-4 pb-12 feed-group bg-gray-100 dark:bg-recommendations">
                 <div className="mx-7 lg:mx-32 lg:px-32 xl:mx-64 xl:px-42 2xl:mx-72 2xl:px-48">
-                <h1 className="mb-4 pb-3 pt-14 text-2xl md:text-3xl font-semibold leading-none tracking-tight text-gray-900 dark:text-white">You might also like...</h1>
+                    <h1 className="mb-4 pb-3 pt-14 text-2xl md:text-3xl font-semibold leading-none tracking-tight text-gray-900 dark:text-white">You might also like...</h1>
                     {filteredList.map(({ id, type, title, minutesReadTime }) => (
                         <div key={id} className="group">
                             <Link className="flex justify-between items-center" href={`/${type}/${id}`}>

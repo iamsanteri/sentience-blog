@@ -1,7 +1,7 @@
 ---
 title: 'Santeri essay'
 type: 'essays'
-date: '2020-01-01'
+date: '24-1-2023'
 minutesReadTime: 12
 ---
 

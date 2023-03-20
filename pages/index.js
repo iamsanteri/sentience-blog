@@ -53,7 +53,7 @@ export default function Home({ allPostsData }) {
           <p className="mb-6 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">Capturing imagination.</p>
         </div>
       </section>
-      <div className="lg:mb-14">
+      <div className="lg:mb-12">
         <PostList pageIdentifier={pageIdentifier} allPostsData={allPostsData} />
       </div>
     </>

@@ -1,7 +1,7 @@
 ---
 title: 'Two Forms of Pre-rendering'
 type: 'essays'
-date: '2020-01-01'
+date: '26.1.2023'
 minutesReadTime: 3
 ---
 
