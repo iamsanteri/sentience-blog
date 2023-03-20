@@ -25,9 +25,9 @@ export default function Stories({ allPostsData }) {
       <Head>
         <title>Stories - Sentience</title>
       </Head>
-      <section className="bg-white dark:bg-sentient pt-20 lg:pt-24">
+      <section className="bg-white dark:bg-sentient pb-8 pt-20 lg:pt-24">
         <div className="py-8 lg:py-14 px-4 mx-auto max-w-screen-xl text-center lg:px-12">
-          <h1 className="mb-1 text-2xl font-semibold leading-none tracking-tight text-gray-900 md:text-2xl lg:text-3xl dark:text-white">Stories</h1>
+          <h1 className="mb-1 text-3xl font-semibold leading-none tracking-tight text-gray-900 lg:text-3xl dark:text-white">Stories</h1>
         </div>
       </section>
       <PostList pageIdentifier={pageIdentifier} allPostsData={allPostsData} />

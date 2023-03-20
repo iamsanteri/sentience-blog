@@ -1,5 +1,5 @@
 ---
-title: 'Two Forms of Pre-rendering'
+title: 'People writings'
 type: 'essays'
 date: '2020-01-01'
 minutesReadTime: 5

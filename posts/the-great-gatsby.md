@@ -1,5 +1,5 @@
 ---
-title: 'When to Use Static Generation v.s. Server-side Rendering'
+title: 'The great gatsby'
 type: 'stories'
 date: '2020-01-02'
 minutesReadTime: 5

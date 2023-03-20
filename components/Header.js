@@ -14,7 +14,7 @@ const Header = () => {
   return (
     <nav className="lg:pl-60 pl-5 lg:pr-60 pr-8 pt-4 lg:pt-7 flex items-center flex-row dark:bg-sentient">
         <div className="container justify-start flex z-20">
-            <span className="text-xl lg:text-2xl font-bold dark:text-white hover:opacity-75">
+            <span className="text-2xl font-bold dark:text-white hover:opacity-75">
                 <Link href="/">Sentience</Link>
             </span>
         </div>
