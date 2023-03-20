@@ -50,7 +50,7 @@ export default function Home({ allPostsData }) {
         </div>
         <div className="py-8 lg:py-10 px-4 mx-auto max-w-screen-xl text-center lg:px-12">
           <h1 className="mb-1 text-2xl font-semibold leading-none tracking-tight text-gray-900 md:text-2xl lg:text-3xl dark:text-white">Stories as a creative outlet.</h1>
-          <p className="mb-6 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">We'll keep building it here.</p>
+          <p className="mb-6 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">Capturing imagination.</p>
         </div>
       </section>
       <PostList pageIdentifier={pageIdentifier} allPostsData={allPostsData} />

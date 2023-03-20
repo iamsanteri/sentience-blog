@@ -12,3 +12,7 @@
 .feed-group > div > div:last-child .hide-h-line-if-last {
   @apply hidden;
 }
+
+.prose {
+  max-width: 100%;
+}

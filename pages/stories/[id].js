@@ -29,13 +29,13 @@ export default function SinglePost({ postData }) {
         <Head>
             <title>{ postData.title }</title>
         </Head>
-        <section className="bg-white dark:bg-sentient pt-20 lg:pt-24">
-            <p>Hello world!</p>
-            <br />
-            { postData.id }
-            <br />
-            { postData.date }
-            <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+        <section className="bg-white dark:bg-sentient pt-14 mb-4 lg:mb-10 lg:pt-24">
+            <div className="w-full flex justify-center">
+                <div className="p-5 md:w-3/4 lg:w-3/5 xl:w-2/4 2xl:w-2/5">
+                    <h1 className="mb-9 text-2xl md:text-4xl font-semibold leading-none tracking-tight text-gray-900 dark:text-white">{ postData.title }</h1>
+                    <article className="prose prose-lg lg:prose-xl text-gray-700 dark:text-gray-300" dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+                </div>
+            </div>
         </section>
     </>
   )
