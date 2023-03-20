@@ -20,6 +20,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 After burning my fingers initially, I decided to not use any experimental features or TypeScript for my first hand-made NextJS project. The API and platform is evolving rapidly, so using a stable and battle-tested functionality is the way to go.  
 
+## Writing posts
+
+Posts reside in top level `posts` directory. You can work on a new post in a different branch and merge when ready. This should be done in order to not have half-finished posts showing up on the live website.
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
