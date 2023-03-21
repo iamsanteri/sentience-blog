@@ -1,11 +1,10 @@
 ---
-title: 'Machines and human judgement'
-type: 'essays'
-date: '21.3.2023'
+title: Machines and human judgement
+type: essays
+date: 21.3.2023
 minutesReadTime: 1
-share: true
+canPublish: true
 ---
-
 As of late, there's been a question I've grappled with more than I expected. Parents of small kids knowing about me doing a Master's degree and working in different countries as of late asked me for an opinion: "What would you recommend our children to do professionally or what careers should they follow?"
 
 Pace of change is so rapid that I was simply shocked that nothing came to my mind other than the standard answers like doctors, police, or "skilled trades". Will they become trendy and prestigious again just like they once were (construction, welders, etc.)?
