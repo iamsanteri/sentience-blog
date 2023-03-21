@@ -3,6 +3,7 @@ title: 'Machines and human judgement'
 type: 'essays'
 date: '21.3.2023'
 minutesReadTime: 1
+share: true
 ---
 
 As of late, there's been a question I've grappled with more than I expected. Parents of small kids knowing about me doing a Master's degree and working in different countries as of late asked me for an opinion: "What would you recommend our children to do professionally or what careers should they follow?"
