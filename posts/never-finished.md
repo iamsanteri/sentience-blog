@@ -10,9 +10,9 @@ As our world speeds up, some curious over-achievers among us are seeing an ever-
 
 Life's external shocks can serve as the trigger, but they rarely are the root cause. And this, I suppose, is what's happening everywhere around us on a massive scale, bound to become one of the most significant societal problems of our time. 
 
-Outside of the surface-level babble, it's not what they teach us in schools about – yet.
+Outside of the surface-level babble, it's not what they teach us about in schools – yet.
 
-Due to only a limited amount of time, particularly if we spend it unwisely, a healthy dose of self-care becomes progressively more important as the invisible toll keeps building up. This happens inside some of our blind spots we cannot quite perceive, or get a feeling for. As we go about our days, one year after another, many of us don't recognize what's going on until it's too late – if even then. 
+When our time is limited, a healthy dose of self-care becomes progressively more important as the invisible toll keeps building up. This happens inside some of our blind spots we cannot quite perceive, or get a feeling for. As we go about our days, one year after another, many of us don't recognize what's going on until it's too late – if even then. 
 
 And this is why it's important to stop and listen to yourself, and get to know what your body is telling you at a given point in life. 
 
