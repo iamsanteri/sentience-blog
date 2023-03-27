@@ -8,7 +8,7 @@ canPublish: true
 
 As our world accelerates, curious individuals find themselves constantly exploring a vast array of emerging topics. However, even the most dedicated learners can become overwhelmed, leaving the more sensitive among us prone to fatigue and even depression. Life's big shocks may act as the triggers, but they rarely are the root cause. This phenomenon, occurring on a massive scale in our society, is poised to become one of the most significant challenges of our time. 
 
-Outside touching the topic on a surface-level, they don't quite teach us about it inschools yet either. 
+Skimming the topic only on a surface-level, they don't quite teach us about it in schools either.
 
 In a world where time is precious, prioritizing self-care becomes increasingly crucial. The cumulative toll of our fast-paced lives often builds up in our blind spots, areas that we struggle to perceive or understand. Year after year, many of us fail to recognize the impact until it's too late — if we ever do at all. It's essential to pause, listen to ourselves, and tune in to what our bodies are trying to tell us at different stages of life. 
 
