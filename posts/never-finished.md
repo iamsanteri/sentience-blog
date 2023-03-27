@@ -6,22 +6,19 @@ minutesReadTime: 3
 canPublish: true
 ---
 
-As our world speeds up, some curious over-achievers among us are seeing an ever-increasing amount of emerging topics to keep diving into and learning more about. Eventually, however, an individual can reach a point of overwhelming fatigue, where some of the more sensitive among us can easily succumb into an existential depression. 
+As our world accelerates, curious individuals find themselves constantly exploring a vast array of emerging topics. However, even the most dedicated learners can become overwhelmed, leaving the more sensitive among us prone to fatigue and even depression. Life's big shocks may act as the triggers, but they rarely are the root cause. This phenomenon, occurring on a massive scale in our society, is poised to become one of the most significant challenges of our time. 
 
-Life's external shocks can serve as the trigger, but they rarely are the root cause. And this, I suppose, is what's happening everywhere around us on a massive scale, bound to become one of the most significant societal problems of our time. 
+Outside touching the topic on a surface-level, they don't quite teach us about it inschools yet either. 
 
-Outside of the surface-level babble, it's not what they teach us about in schools – yet.
+In a world where time is precious, prioritizing self-care becomes increasingly crucial. The cumulative toll of our fast-paced lives often builds up in our blind spots, areas that we struggle to perceive or understand. Year after year, many of us fail to recognize the impact until it's too late — if we ever do at all. It's essential to pause, listen to ourselves, and tune in to what our bodies are trying to tell us at different stages of life. 
 
-When our time is limited, a healthy dose of self-care becomes progressively more important as the invisible toll keeps building up. This happens inside some of our blind spots we cannot quite perceive, or get a feeling for. As we go about our days, one year after another, we don't recognize what's going on until it's too late – if even then. 
+Numerous aspects of life simply cannot be "ticked off the list" or "marked as done." Even the most stable fields and subjects we study continue to evolve rapidly, rendering it futile to attempt keeping up in an unsustainable manner. Regardless of our efforts, the rug can be pulled from beneath us at any moment. Our innate desire to cling to external, uncontrollable factors in a cutthroat economy often leads to pain and suffering.
 
-And that's why it's important to stop and listen to yourself, and hear what your body is telling you at a given point in life. 
+While it's admirable to seek safety, abundance, competence, and professionalism for ourselves and expect the same from others, it's also important to maintain a healthy balance, ensuring that our well-being remains a priority. In an ever-changing society where right and wrong become blurred and our emotions are manipulated by external forces, it's no surprise that we sometimes feel out of place.
 
-What I wanted to do in this post, was to briefly point out the fact that a surprisingly large amount of things cannot be just "ticked off the list" or "marked as done". Even some of the most stable fields and topics we're learning about keep developing at a breakneck speed, and it's only futile to try to keep up in a manner that's unsustainable for us as individuals. That is, in a way that we couldn't have yet possibly evolved to manage. No matter how hard we try, the rug can be pulled from underneath us at any time. Our inherent need to identify and attach ourselves to external, or otherwise uncontrollable things in this cut-throat economy is leading to a lot of pain and suffering.
-
-It is, of course, a noble thing to strive for a feeling of safety, abundance, competence and professionalism for ourselves and expect it from those around us, but it's also fine to slow down and ensure that it remains within healthy boundaries for each and one of us personally. In a disorienting society where little that can be considered simply right or wrong, where our emotions are rushingly harnessed by outside agendas, it's no wonder we feel like something's out of place. 
-
-As our self-protection mechanisms kick in, it's a relief to realize that some things may just never be finished, and they shouldn't be. As opposed to fixating on our future or our past, measuring ourselves through our accomplishments, or defining ourselves by just a narrow sliver of who we really are, it's ok release and let go of our need to control.
+As our self-protection mechanisms kick in, it's a relief to realize that many things may just never be finished, and maybe they even shouldn't be. As opposed to fixating on our future or our past, measuring ourselves through our accomplishments, or defining ourselves by just a narrow sliver of who we really are, it's ok to release and let go of our need for control.
 
 In life, some people can manage through it all without giving things a second thought, and never crash. Some people are born and raised in loving, caring and healthy families giving them what feels like a thick layer of insulation from life's crushing pressures. Some people, on the other hand, keep crashing and stumbling throughout their entire lives without taking an intricate look inside.
 
-For those of us who stop to think and wonder about all these things, it's liberating to simply understand that we are never finished – and that it is totally fine.
+For those of us who stop to wonder about all these things, it's liberating to simply understand that we are never finished – and that it is totally fine.
+
