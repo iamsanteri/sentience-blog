@@ -2,19 +2,19 @@
 title: 'The scientific method in social sciences'
 type: 'essays'
 date: 29.4.2023
-minutesReadTime: 3
+minutesReadTime: 2
 canPublish: true
 ---
 
 **As described by Aristotle**
 
-Idea for this essay comes from original the column of Roger Martin, [A better blueprint for studying Economics](https://www.reuters.com/article/idUS194605394520111110).
+Idea for this essay comes from original the column of Roger Martin, [a better blueprint for studying Economics](https://www.reuters.com/article/idUS194605394520111110).
 
 ### Social interactions are inherently messy
 
-You can't learn business in school, nor do you need anyone’s permission. You can, of course, learn interesting stuff and tools that can be useful, but you shouldn't let it bog you down in regards to things that are truly important. Most of the complexity introduced by deeper research out there isn't worth it, because we as humans are messy. Our social interactions, and the related constructs are inherently messy and irrational as described by Aristotle in his “scientific method”. 
+You can't learn business in school, nor do you need anyone’s permission. You can of course learn interesting stuff that can be useful, but you shouldn't let it bog you down in regarding things that are truly important. Most of the complexity introduced by deeper research out there isn't worth it, because we as humans are weird. Our social interactions and related constructs are inherently messy and irrational as described by Aristotle in his scientific method. 
 
-Aristotle's words can be well applied to modern business schools in terms of them ignoring his boundary condition which he laid out clearly back in the day, but which has watered down quite a bit in the past centuries. For a second, let's dive back into his original thoughts. 
+Aristotle's words can be applied to modern business schools in terms of them ignoring his important boundary condition which he laid out, but which has watered down throughout the past centuries. For a second, let's dive back into his original thoughts. 
 
 ### The scientific method
 
@@ -28,4 +28,6 @@ Due to historical events, the thinking in business schools may have eventually e
 
 ### Complexity for the sake of teaching 
 
-Most of the things you study at the university are more complex than it's useful to learn about in too much detail. Real life is messier. Don’t worry or overthink, if you don’t understand every detail of some theory or research results. Grades you get at that stage may also be the least thing to worry about. Studying business or social sciences, you aren't going to be doctor or a lawyer anyway, not speaking of becoming a neurosurgeon. Instead what you need is a general and a perpetual ability to solve problems. The cases are far-in-between where someone dies based on your decisions, so embrace the greatness of doing business. 
+Most of the things you study at the university are more complex than is useful to learn about in too much detail. Real life is messier. Don’t worry or overthink if you don’t understand every detail of some theory or research results. Grades are likely also the least thing to worry about at the stage of graduate studies. 
+
+Studying business or social sciences, you aren't likely to become a doctor or a lawyer, not speaking of becoming a neurosurgeon. Nobody will be jailed or end up dying to a false decision in your early career. Instead what you need is a general and a perpetual ability to solve problems. So embrace the greatness of doing business. Study it less and be useful more, I guess that's what it is mostly about. 
