@@ -28,6 +28,6 @@ Due to historical events, the thinking in business schools may have eventually e
 
 ### Complexity for the sake of teaching 
 
-Most of the things you study at the university are more complex than is useful to learn about in too much detail. Real life is messier. Don’t worry or overthink if you don’t understand every detail of some theory or research results. Grades are likely also the least thing to worry about at the stage of graduate studies. 
+Most of the things you study at the university are more complex than is useful to learn about in too much detail. Real life is messier. Don’t worry or overthink if you don’t understand every detail of some theory or research results. Grades are likewise the least thing to worry about at the stage of graduate studies. Perhaps a more worthwile goal would be to learn about asking the right questions? Then you can use all the bells and whistles you learned about to investigate them. 
 
 Studying business or social sciences, you aren't likely to become a doctor or a lawyer, not speaking of becoming a neurosurgeon. Nobody will be jailed or end up dying to a false decision in your early career. Instead what you need is a general and a perpetual ability to solve problems. So embrace the greatness of doing business. Study it less and be useful more, I guess that's what it is mostly about. 
