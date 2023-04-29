@@ -12,9 +12,9 @@ My idea for this essay comes from the original column of Roger Martin, [a better
 
 ### Social interactions are inherently messy
 
-You can't learn business in school, nor do you need anyone’s permission to do it. You can of course learn interesting stuff that can be useful, but you shouldn't let it bog you down in regards to things that are truly important. Most of the complexity introduced by deeper research out there isn't worth it, because we as humans are weird. Our social interactions and other constructs are inherently messy and irrational as described by Aristotle in his scientific method. 
+You can't learn business in school, nor do you need anyone’s permission. You can of course learn interesting stuff that can be useful, but you shouldn't let it bog you down in regards to things that are truly important. Most of the complexity introduced by deeper research out there isn't worth it, because we humans are weird. Our social interactions and other constructs are inherently messy and irrational as described by Aristotle in his scientific method.  
 
-Aristotle's words are misunderstood in modern business schools in terms of ignoring his critical boundary condition which has continued watering down during the past centuries. For a minute, let's dive back into this great philosopher's original thoughts. 
+Aristotle's words are misunderstood in modern business schools in terms of ignoring his critical boundary condition which has continued watering down during the past centuries. For a minute, let's dive back into this great philosopher's original thoughts.
 
 ### The scientific method
 
