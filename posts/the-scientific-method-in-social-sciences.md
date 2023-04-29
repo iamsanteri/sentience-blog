@@ -2,7 +2,7 @@
 title: 'The scientific method in social sciences'
 type: 'essays'
 date: 29.4.2023
-minutesReadTime: 3
+minutesReadTime: 2
 canPublish: true
 ---
 
