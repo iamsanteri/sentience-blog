@@ -8,7 +8,7 @@ canPublish: true
 
 **As described by Aristotle**
 
-Idea for this essay comes from original the column of Roger Martin, [a better blueprint for studying Economics](https://www.reuters.com/article/idUS194605394520111110).
+My idea for this essay comes from original the column of Roger Martin, [a better blueprint for studying economics](https://www.reuters.com/article/idUS194605394520111110).
 
 ### Social interactions are inherently messy
 
