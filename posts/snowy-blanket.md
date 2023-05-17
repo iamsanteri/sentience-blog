@@ -3,6 +3,7 @@ title: 'Snowy blanket'
 type: 'stories'
 date: '19.3.2023'
 minutesReadTime: 1
+canPublish: true
 ---
 
 As days start to get longer in the second half of winter, our lake turns into a frozen field with an occasional dot or two moving slowly in the far-away distance.

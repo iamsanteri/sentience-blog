@@ -3,6 +3,7 @@ title: 'Neatly flowing river'
 type: 'stories'
 date: '15.3.2023'
 minutesReadTime: 1
+canPublish: true
 ---
 
 A book lies carelessly forgotten in a corner of the attic. Gentle wind brushes the roof while a distant sound of an automobile can be heard somewhere far away.

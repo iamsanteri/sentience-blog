@@ -3,6 +3,7 @@ title: 'Waking up'
 type: 'stories'
 date: '16.3.2023'
 minutesReadTime: 2
+canPublish: true
 ---
 
 Suddenly, a man wakes up in cold sweat dreading for his life. Launching himself upright he can almost hear his heartbeat while tasting the dryness in his mouth. His brain feels like a squeezed fruit and his body is trembling.  

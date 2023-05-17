@@ -1,7 +1,7 @@
 ---
 title: 'The scientific method for humans'
 type: 'essays'
-date: 29.4.2023
+date: '29.4.2023'
 minutesReadTime: 2
 canPublish: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Never finished'
 type: 'essays'
-date: 27.3.2023
+date: '27.3.2023'
 minutesReadTime: 3
 canPublish: true
 ---

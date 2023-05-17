@@ -1,7 +1,7 @@
 ---
 title: Value of human judgement
 type: essays
-date: 21.3.2023
+date: '21.3.2023'
 minutesReadTime: 1
 canPublish: true
 ---

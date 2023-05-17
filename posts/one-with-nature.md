@@ -3,6 +3,7 @@ title: 'One with nature'
 type: 'stories'
 date: '18.3.2023'
 minutesReadTime: 5
+canPublish: true
 ---
 
 It's quiet as I drive down a suburban road just outside our town. Maybe it was the morning drizzle that led most people to decide and stay indoors this time. A couple of turns later, I slowly arrive at the gate of a large yellow building sitting on the coast of a beautiful lake. A stunning place, even in the midst of all this November dullness – an outcome of yet another eventful summer gone by and a winter that's only about to begin.

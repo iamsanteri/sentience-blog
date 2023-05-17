@@ -3,6 +3,7 @@ title: 'Psychology of depression'
 type: 'essays'
 date: '17.3.2023'
 minutesReadTime: 7
+canPublish: true
 ---
 
 **As discussed by Michael Yapko**
