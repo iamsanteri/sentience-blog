@@ -18,7 +18,7 @@ Humans are a sort of supercharged inference machines, obsessed with planning, co
 
 It's a beautiful world, and as the man sits down and stops to appreciate that instant with a cup of tea in his hand, it all definitely feels like it's been worth it. 
 
-Things rarely progress in a linear upward fashion, and soon their chair might find itself being re-sold or thrown away. Nobody knows exactly when it will happen or where, but it's likely that it will and as such shouldn't be worried about too much. So as time progresses, it is rather non-linear and janky regarding all things, just like any sort of a sustained behavioral change, adaptation or improvement is rarely all that smooth. These things take time, and it's counter-productive to expect things to simply happen all that fast.
+Things rarely progress in a linear upward fashion, and soon their chair might find itself being re-sold or thrown away. Nobody knows exactly when it will happen or where, but it's likely that it will, and as such, shouldn't be worried about too much. So as time progresses, it is rather non-linear and janky regarding all things, just like any sort of a sustained behavioral change, adaptation or improvement is rarely all that smooth. These things take time, and it's counter-productive to expect things to simply happen all that fast.
 
 There are bumps on the way and a disbalance often ensues to haunt us again. Regressions and failure are an ordinary part of life, and this couple's chair embodies the fleetingness and uncertainty of all the things. The eventual change – the constant flow of time. 
 
