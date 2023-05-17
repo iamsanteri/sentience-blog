@@ -1,7 +1,7 @@
 ---
 title: 'Everyday grace'
 type: 'stories'
-date: '16.5.2023'
+date: '2023-05-17'
 minutesReadTime: 5
 canPublish: true
 ---
