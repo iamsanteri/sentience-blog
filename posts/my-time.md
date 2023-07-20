@@ -10,7 +10,7 @@ I've come to understand I constantly try to keep my life busy and full of activi
 
 So at my current stage of life I once again recognize the joy I'm getting from meeting other people and working towards the countless topics I believe in or find interesting. I seemingly also like changing my location ever so often to keep my mind fresh, helping me stay curious and energetic. It's just my nature, and it helps me keep my balance. This way I stay on a sound track, even if it doesn't always play well with others – and that's something I've often suppressed and felt bad about in the past, but I'm now learning to better deal with as I go. It's only normal.
 
-You see, it's my mind and my life. If I don't take care of myself, there's no one else to save me. If I don't control some of the bad aspects of my nature people, including my own self, will not want to spend much time with me anymore, and onwards from there such stories tend to be sad.
+You see, it's my mind and my life. If I don't take care of myself, there's no one else to save me. If I don't control some of the bad aspects of my nature people, including my own self, will not want to spend all that much time with me anymore, and onwards from there such stories tend to be sad.
 
 As I continue experiencing and perceiving this world in such an intimate and reflective way due to my own apparent sensitivity, I want to gain confidence to worry less and eliminate all the unnecessary thinking, and particularly the type which affects my own sense of selfhood. 
 
