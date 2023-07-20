@@ -24,7 +24,7 @@ Coming back to the many days when I'm alone with nothing much going on – I've 
 
 Having all these ambitions and wishes about what to keep learning and spending my time on while experiencing new things and building new skills – it's for such things that my stationary and lonely-feeling days fit perfectly well for. It's during days when I have the least things planned, wondering what or where I can spend my time that I can best progress with my own little goals, or try to relax in a more purposeful and positively lonely way. In all things I like to do there are surely many aspects that are best done in solitude – during such lonely or otherwise boring-feeling days. 
 
-So it's alone where I can best dedicate lots of time on things I care about in a way that isn't possible when I'm busy running around meeting others. 
+So it's alone where I can best dedicate lots of time on things I care about in a way that isn't possible when I'm busy running around meeting others.
 
 Some states of relaxation, progress or ideas won't arrive to me from someone else, and it's a false assumption I may have had until now that I'd get that from others. I may have sought for input and guidance from a lot of the things happening outside me that could perhaps help me by showing the way. Now I recognize this as immature. The course of action I often took where I focused my attention and demands on someone else and clinged to others is something I want to no longer be doing.  
 
