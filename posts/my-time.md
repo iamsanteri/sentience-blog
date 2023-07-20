@@ -1,6 +1,6 @@
 ---
 title: My time
-type: essays
+type: stories
 date: '20.7.2023'
 minutesReadTime: 5
 canPublish: true
