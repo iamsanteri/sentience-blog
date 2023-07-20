@@ -6,7 +6,7 @@ minutesReadTime: 5
 canPublish: true
 ---
 
-I've come to understand I constantly try to keep my life busy and full activity – and that's how I like it. Maybe it'll always be this way, I don't know. 
+I've come to understand I constantly try to keep my life busy and of full activity – and that's how I like it. Maybe it'll always be this way, I don't know. 
 
 So at my current stage of life I once again recognize the joy I get from meeting other people and working towards the countless topics I believe in or find interesting. I seemingly also like changing my location ever so often to keep my mind fresh, helping me stay curious and energetic. It's just my nature, and it helps keep my balance. This way I stay on a sound track, even if it doesn't always play well with others – and that's something I've often suppressed and felt bad about in the past, but I'm now learning to better deal with as I go. It's only normal.
 
