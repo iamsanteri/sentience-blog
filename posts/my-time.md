@@ -30,7 +30,7 @@ Some states of relaxation, progress or ideas won't arrive to me from someone els
 
 It's as if my purposeless idle time may be slightly dangerous and if I don't properly direct my time while ending up scattering it on useless platforms or other apps, I end up going nowhere and become sad.
 
-So I have to appreciate all the moments where I can just sit down and enjoy my own private things and interests, hobbies and work. Alone.
+I only have to appreciate all the moments where I can just sit down and enjoy my own private things and interests, hobbies and work. Alone.
 
 When my favorite days with all-out activity and other people along with good moments finally arrive again – and they always do – I will enjoy them double! Time with my friends, my close ones and all the great people I have around me is precious. All the busy-stuff, activities and days I spend with others feel even better when I know I've spent some proper time working on my own stuff, like my Master's thesis or other work, without needing anything from anyone, or anyone needing anything from me. 
 
