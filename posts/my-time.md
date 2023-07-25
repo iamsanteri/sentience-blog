@@ -36,7 +36,6 @@ When my favorite days with all-out activity and other people along with good mom
 
 As Seneca once wrote, it's not that we don't have enough time, it's rather that we use the time we have wastefully. We fail to treat time as something of value even though it's our most valuable resource. 
 
-Adding to Seneca's point, my own time in solitude is as valuable and I shouldn't waste all too much of that either. At least not on all the obsessive unnecessary thinking which as an analytical strength of mine I once thought I had firmly under my control, but that at some time ended up turning against me. 
-![AltText {768x432}{priority}{caption: Abstract SL}](abstract-painting-sl.png)
+Adding to Seneca's point, my own time in solitude is as valuable and I shouldn't waste all too much of that either. At least not on all the obsessive unnecessary thinking which as an analytical strength of mine I once thought I had firmly under my control, but that at some time ended up turning against me.
 
-And just as well, I might enjoy drawing while listening to music, go for a nice bicycle ride or a swim, and enjoy a brief paddling in a river – all by myself and in solitude – and on my own time. 
+And just as well, I might enjoy drawing while listening to music, go for a nice bicycle ride or a swim, and enjoy a brief paddling in a river – all by myself and in solitude – and on my own time.
