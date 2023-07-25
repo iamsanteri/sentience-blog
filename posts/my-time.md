@@ -30,12 +30,14 @@ Some states of relaxation, progress or ideas won't arrive to me from someone els
 
 It's as if my purposeless idle time may be slightly dangerous and if I don't properly direct my time while ending up scattering it on useless platforms or other apps, I end up going nowhere and become sad.
 
-So I have to appreciate all the moments where I can just sit down and enjoy my own private things and interests, hobbies and work. Alone.
+I have to appreciate all the moments where I can just sit down and enjoy my own private things and interests, hobbies and work. Alone.
 
 When my favorite days with all-out activity and other people along with good moments finally arrive again – and they always do – I will enjoy them double! Time with my friends, my close ones and all the great people I have around me is precious. All the busy-stuff, activities and days I spend with others feel even better when I know I've spent some proper time working on my own stuff, like my Master's thesis or other work, without needing anything from anyone, or anyone needing anything from me. 
 
 As Seneca once wrote, it's not that we don't have enough time, it's rather that we use the time we have wastefully. We fail to treat time as something of value even though it's our most valuable resource. 
 
 Adding to Seneca's point, my own time in solitude is as valuable and I shouldn't waste all too much of that either. At least not on all the obsessive unnecessary thinking which as an analytical strength of mine I once thought I had firmly under my control, but that at some time ended up turning against me. 
+
+![[abstract-painting-sl.png|500]]
 
 And just as well, I might enjoy drawing while listening to music, go for a nice bicycle ride or a swim, and enjoy a brief paddling in a river – all by myself and in solitude – and on my own time. 
