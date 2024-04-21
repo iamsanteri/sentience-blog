@@ -1,5 +1,5 @@
 ---
-title: My time [test]
+title: My time
 type: stories
 date: 20.7.2023
 minutesReadTime: 4
