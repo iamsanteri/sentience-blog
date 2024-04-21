@@ -1,7 +1,7 @@
 ---
-title: My time
+title: My time [test]
 type: stories
-date: '20.7.2023'
+date: 20.7.2023
 minutesReadTime: 4
 canPublish: true
 ---
